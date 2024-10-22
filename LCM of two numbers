@@ -13,5 +13,5 @@ void main()
         else
          big=big+step;
     }
-    printf("LCM id %d",big);
+    printf("LCM is %d",big);
 }
